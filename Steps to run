@@ -1,0 +1,13 @@
+ -- Backend
+
+Step 1. Open Backend folder cd backend.
+Step 2. cd Todo.
+Step 3. python manage.py runserver.
+
+Django admin Username: Todo , Password: root1234
+
+
+
+
+
+
